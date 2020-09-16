@@ -1,0 +1,77 @@
+.woocommerce #content input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-page #content input.button.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page input.button.alt:hover {
+
+background:#8d6440 !important;
+
+background-color:#8d6440 !important;
+
+color:white !important;
+
+text-shadow: transparent !important;
+
+box-shadow: none;
+
+border-color:#ca0606 !important;
+
+}
+
+.woocommerce #content input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce-page #content input.button:hover, .woocommerce-page #respond input#submit:hover, .woocommerce-page a.button:hover, .woocommerce-page button.button:hover, .woocommerce-page input.button:hover {
+
+background:#8d6440 !important;
+
+background-color:#8d6440 !important;
+
+color:white !important;
+
+text-shadow: transparent !important;
+
+box-shadow: none;
+
+border-color:#ca0606 !important;
+
+}
+
+.woocommerce #content input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page #content input.button, .woocommerce-page #respond input#submit, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button {
+
+background: #8d6440 !important;
+
+color:white !important;
+
+text-shadow: transparent !important;
+
+border-color:#ca0606 !important;
+
+}
+
+.woocommerce #content input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-page #content input.button.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page input.button.alt:hover {
+
+background: #8d6440 !important;
+
+box-shadow: none;
+
+text-shadow: transparent !important;
+
+color:white !important;
+
+border-color:#ca0606 !important;
+
+}
+
+.onsale {
+  background: #8d6440 !important;
+}
+
+.woocommerce .widget_product_search .woocommerce-product-search button[type="submit"]:hover {
+    background-color: rgba(0,0,0,0.71) !important;
+}
+
+.woocommerce .widget_product_search .woocommerce-product-search button[type="submit"] {
+    background-color: #8D6440 !important;
+}
+
+a:hover, a:focus, .tg-primary-menu > div ul li:hover > a, .tg-primary-menu > div ul li.current_page_item > a, .tg-primary-menu > div ul li.current-menu-item > a, .tg-mobile-navigation > div ul li.current_page_item > a, .tg-mobile-navigation > div ul li.current-menu-item > a, .entry-content a, .tg-meta-style-two .entry-meta span, .tg-meta-style-two .entry-meta a {
+    color: #8d6440;
+}
+
+.woocommerce span.onsale, .woocommerce ul.products a.button, .woocommerce a.button, .woocommerce a.button.alt, .woocommerce button.button, .woocommerce button.button.alt, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce div.product form.cart .button, .woocommerce div.product .woocommerce-tabs #respond input#submit, .woocommerce .widget_product_search .woocommerce-product-search button[type="submit"], .woocommerce .widget_price_filter .ui-slider-horizontal .ui-slider-range, .woocommerce .widget_price_filter .price_slider_amount .button:hover {
+    background-color: #8D6440;
+}
